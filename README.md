@@ -14,3 +14,6 @@ Python, Pandas, NumPy, Jupyter Notebook
 
 ## Dataset
 [Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)# titanic-eda-preprocessing
+
+## View Notebook
+[Open in nbviewer](https://nbviewer.org/github/Areeeshaa/titanic-eda-preprocessing/blob/main/titanic_eda_preprocessing.ipynb)
