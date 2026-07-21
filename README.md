@@ -17,3 +17,5 @@ Python, Pandas, NumPy, Jupyter Notebook
 
 ## View Notebook
 [Open in nbviewer](https://nbviewer.org/github/Areeeshaa/titanic-eda-preprocessing/blob/main/titanic_eda_preprocessing.ipynb)
+## Preview
+![Titanic EDA Overview](titanic_overview.png)
